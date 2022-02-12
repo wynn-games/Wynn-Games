@@ -2,7 +2,7 @@
 <p align="center">
  <img width="200px" src="https://wynn-games.com/img/info-logo.svg" align="center" alt="Wynn Games" />
  <h2 align="center">WYNN GAMES</h2>
- <p align="center">A Platform For Blockchain Lotteries, Binary Options And Economic Games with a transparent and independent winning algorithm</p>
+ <p align="center">Wynn Game is not just another project with an enticing legend, it is an entire ecosystem that includes various games from both worlds such as fiat and crypto . The features of P2E allow us to range between different economic fiat games that everyone has seen at least once in real life, as well as Cyber Game World, which already has established communities.</p>
 </p>
   <p align="center">
     <a href="https://wynn-games.com/">
@@ -24,22 +24,25 @@
 
 <p>
 <h2 align="left">Technical Characteristics of the Wynn Token:</h2>
-<p><b>Stock Ticker: </b>Wynn </p>
- <p><b>Type:</b> token </p>
- <p><b>Blockchain:</b> Tron Token </p>
-<p> <b>Standard: TRC-20 Emission:</b> 50,000,000 tokens</p>
-<p>
+<p>Stock Ticker: <b>Wynn</b> </p>
+<p>Type:<b> token</b> </p>
+<p>Blockchain:<b> Binance Smart Chain</b> </p>
+<p>Standard: <b>BEP20</b> </p>
+<p>Emission:<b> 50,000,000 tokens</b></p>
 
 <p>
 <h2 align="left">Initial Distribution</h2>
-The total emission of the Wynn token is 50,000,000 tokens, which are distributed on special system wallets, each of which has its own intended purpose. This excludes irrational or inappropriate use. 
-<p><b>6% or 3 000 000 Wynn</b> - Reserved for pre-sale </p>
-<p><b>15% or 7 500 000 Wynn</b> - Reserved for replenishing the lottery prize fund </p>
-<p><b>15% or 7 500 000 Wynn</b> - Reserved for replenishing the prize fund of a binary option </p>
-<p><b>20% or 10 000 000 Wynn</b> - A marketing fund for promoting and scaling the project </p>
-<p><b>10% or 5 000 000 Wynn</b> - The development team fund is frozen </p>
-<p><b>34% or 17 000 000 Wynn</b> - An operational wallet for replenishing the prize fund of gaming services under development</p>
+The total supply of the WYNN token is 50,000,000 tokens, which are distributed on special system wallets, each of which has its own intended purpose. This excludes irrational or inappropriate use. 
+<p><b>10% or 5 000 000 WYNN</b> - Supply, rising a total of $445 000 </p>
+<p><b>15% or 7 500 000 WYNN</b> - Reserved for replenishing the lottery prize fund</p>
+<p><b>10% or 5 000 000 WYNN</b> - Reserved for replenishing the prize fund of a binary option </p>
+<p><b>15% or 7 500 000 WYNN</b> - A marketing fund </p>
+<p><b>10% or 5 000 000 WYNN</b> - The development team fund </p>
+<p><b>25% or 12 500 000 WYNN</b> - For replenishing the prize funds</p>
+<p><b>15% or 7 500 000 WYNN</b> – Liquidity</p>
 </p>
+
+
 
 <h2 align="left"></h2>
 
