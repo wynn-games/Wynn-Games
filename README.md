@@ -1,11 +1,11 @@
 
 <p align="center">
- <img width="200px" src="https://wynn-games.com/img/info-logo.svg" align="center" alt="Wynn Games" />
+ <img width="200px" src="https://wynn-games.org/img/info-logo.svg" align="center" alt="Wynn Games" />
  <h2 align="center">WYNN GAMES</h2>
  <p align="center">Wynn Game is not just another project with an enticing legend, it is an entire ecosystem that includes various games from both worlds such as fiat and crypto . The features of P2E allow us to range between different economic fiat games that everyone has seen at least once in real life, as well as Cyber Game World, which already has established communities.</p>
 </p>
   <p align="center">
-    <a href="https://wynn-games.com/">
+    <a href="https://wynn-games.org/">
       <img src="https://img.shields.io/badge/WEBSITE-e8922d?style=for-the-badge"/>
     </a>
     <a href="https://t.me/WynnGames">
@@ -47,7 +47,7 @@ The total supply of the WYNN token is 50,000,000 tokens, which are distributed o
 <h2 align="left"></h2>
 
 <p align="center">
-    <a href="https://wynn-games.com/">
+    <a href="https://wynn-games.org/">
       <img src="https://img.shields.io/badge/WEBSITE-e8922d?style=for-the-badge"/>
     </a>
     <a href="https://t.me/WynnGames">
